@@ -120,8 +120,11 @@ multi-machine virtual environment.
 -   Verified name resolution using `ping` and `nslookup`.
 -   Confirmed successful DNS resolution.
 
-> **Screenshots:** DHCP reservation, DNS records.
+**Fig 6**:DHCP Reservation
+> ![DHCP Reservation](images/dhcp_reservation.png)
 
+**Fig 7**:DNS
+> ![DNS](images/address_pool.png)
 ------------------------------------------------------------------------
 
 ### Phase 4 -- Group Policy Management
@@ -134,7 +137,12 @@ multi-machine virtual environment.
 -   Troubleshot Group Policy application by correcting Organizational
     Unit placement.
 
-> **Screenshots:** GPO Editor, gpresult output.
+**Fig 8**:Group Policy Object
+> ![gpo](images/it_gpo.png)
+
+**Fig 9**Using GPO to restrict control panel access for a particular OU
+> ![control panel access](images/gpo_control_panel.png)
+> ![gpupdate](images/gpupdate.png)
 
 ------------------------------------------------------------------------
 
@@ -149,8 +157,6 @@ multi-machine virtual environment.
     Windows SIM and USMT.
 -   Reviewed Windows Server Update Services (WSUS) and centralized
     Windows update management.
-
-> **Screenshot:** SCCM console (optional).
 
 ------------------------------------------------------------------------
 
