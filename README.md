@@ -89,7 +89,7 @@ multi-machine virtual environment.
 -   Explored the Active Directory Administrative Center.
 
 **Fig 2**: Organizational units
-> ![Organizational units](images/Organizational units.png)
+> ![Organizational units](images/Organizationalunits.png)
 
 **Fig 3**: Finance OU Users
 > ![Finance OU users](images/finance ou users.png)
