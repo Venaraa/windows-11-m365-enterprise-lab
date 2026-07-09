@@ -92,13 +92,13 @@ multi-machine virtual environment.
 > ![Organizational units](images/Organizationalunits.png)
 
 **Fig 3**: Finance OU Users
-> ![Finance OU users](images/finance ou users.png)
+> ![Finance OU users](images/finance_ou_users.png)
 
 **Fig 4**:Security Groups
-> ![Security groups](images/security groups.png)
+> ![Security groups](images/security_groups.png)
 
 **Fig 5**:Control delegation
-> ![Control delegation](images/control delegation.png)
+> ![Control delegation](images/control_delegation.png)
 
 
 ------------------------------------------------------------------------
