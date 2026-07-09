@@ -88,7 +88,18 @@ multi-machine virtual environment.
     group.
 -   Explored the Active Directory Administrative Center.
 
-> **Screenshots:** OU structure, users, security groups, delegation.
+**Fig 2**: Organizational units
+> ![Organizational units](images/Organizational units.png)
+
+**Fig 3**: Finance OU Users
+> ![Finance OU users](images/finance ou users.png)
+
+**Fig 4**:Security Groups
+> ![Security groups](images/security groups.png)
+
+**Fig 5**:Control delegation
+> ![Control delegation](images/control delegation.png)
+
 
 ------------------------------------------------------------------------
 
