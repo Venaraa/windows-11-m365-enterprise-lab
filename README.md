@@ -62,7 +62,7 @@ multi-machine virtual environment.
 -   Confirmed Active Directory, DNS and DHCP services were operational
     before proceeding with administration tasks.
     
-**Fig 1:** Hyper-v running
+**Fig 1: Hyper-v running
 > **![Hyper-v running](images/runnings_vms.png)
 
 
